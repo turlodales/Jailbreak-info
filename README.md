@@ -3,12 +3,12 @@
 
 # A series list of Apple Processors Device's
 
-# A series list of 32bit Device's
+# list of 32bit Device's
 | Device            | Device       | Device      | Device   | Device      | Device     | Device     | 
 |---------|---------|---------|---------|---------|---------|---------|
 | iPhone 2G origanal |  iPhone 3G  | iPhone 3GS  |iPhone 4  |    iPhone 4S|  iPhone 5  | iPhone 5C  | 
 
-# A series list of 64bit Device's
+# list of 64bit Device's
 | Device               | Device               | Device               | Device               | Device               | Device               | Device               | Device               | 
 |---------|---------|---------|---------|---------|---------|---------|---------|
 | iPhone 5S   | iPhone 6  | iPhone 6+ |  iPhone SE  |  iPhone 6S  | iPhone 6S+   | iPhone 7  | iPhone 7+| 
@@ -124,7 +124,7 @@ info from
 | iOS 4.3.5 |  | | 
 
 
-# iOS 4.0 - iOS  5.1.1
+# iOS 5.0 - iOS  5.1.1
 | iOS       |  Jailbreak  |    JB Team  | 
 |---------|----------|---------|
 | iOS 5.0   |  | | 
@@ -146,4 +146,60 @@ info from
 
 
 -----------------------------------------------------------------------------------------
+
+# iPhone 4 (A4)
+
+# iOS 4.0 - iOS  4.3.5
+| iOS       |  Jailbreak  |    JB Team  | 
+|---------|----------|---------|
+| iOS 4.0   |  | | 
+| iOS 4.0.1 |  | | 
+| iOS 4.0.2 |  | | 
+| iOS 4.1   |  | | 
+| iOS 4.2.1 |  | | 
+| iOS 4.3   |  | | 
+| iOS 4.3.1 |  | |
+| iOS 4.3.2 |  | |
+| iOS 4.3.3 |  | |
+| iOS 4.3.4 |  | | 
+| iOS 4.3.5 |  | | 
+
+
+# iOS 5.0 - iOS  5.1.1
+| iOS       |  Jailbreak  |    JB Team  | 
+|---------|----------|---------|
+| iOS 5.0   |  | | 
+| iOS 5.0.1 |  | | 
+| iOS 5.1   |  | | 
+| iOS 5.1.1 |  | | 
+
+# iOS 6.0.1 - iOS  6.1.6
+| iOS       | Jailbreak |    JB Team  | 
+|---------|----------|---------|
+| iOS 6.0 |  | |
+| iOS 6.0.1 |  | | 
+| iOS 6.1   |  | | 
+| iOS 6.1.2 |  | | 
+| iOS 6.1.3 |  | | 
+| iOS 6.1.6 |  | |
+
+# iOS 7.0 - iOS  7.1.2
+| iOS       |  Jailbreak  |    JB Team  | 
+|---------|----------|---------|
+| iOS 7.0   |  | |  
+| iOS 7.0.2 |  | | 
+| iOS 7.0.3 |  | | 
+| iOS 7.0.4 |  | | 
+| iOS 7.0.6 |  | | 
+| iOS 7.1   |  | |
+| iOS 7.1.1 |  | |
+| iOS 7.1.2 |  | |
+
+ 
+-----------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 
