@@ -17,43 +17,26 @@
 -------------------------------------------------------------------------------------------------------------------
 
 # iPhone 2G origanal 
-     
-     
+
 # iOS 1.0 - iOS  1.1.5 
-| iOS       |  Jailbreak  |       JB Team  | 
-|---------|----------|---------|
-| iOS 1.0   | No |  | 
-| iOS 1.0.1 | No |  | 
-| iOS 1.0.2 | No |  | 
-| iOS 1.1   | No | | 
-| iOS 1.1.1 | Yes | Jailbreak.me |
-| iOS 1.1.2 | No | |
-| iOS 1.1.3 | No | |
-| iOS 1.1.4 | No | |
-| iOS 1.1.5 | No | |
+| iOS       | iOS 1.0 | iOS 1.0.1 | iOS 1.0.2 | iOS 1.1 | iOS 1.1.1 | iOS 1.1.2 |  iOS 1.1.3  |   iOS 1.1.4   |   iOS 1.1.5   |
+|---------|----------|---------|---------|----------|---------|---------|----------|---------|---------|
+| Jailbreak |   No   |   No       |        No |      No | Jailbreak.me |  no | 
+
+# iOS 2.0 - iOS  2.2.1 
+| iOS       | iOS 2.0 | iOS 2.0.1 | iOS 2.0.2 | iOS 2.1 | iOS 2.2 | iOS 2.2.1 |  
+|---------|----------|---------|---------|----------|---------|---------|
+| Jailbreak |   No   |   No       |        No |      No | no |  no | No | no | QuickPWN |
+   
+
+# iOS 3.0 - iOS  3.1.3 
+| iOS       | iOS 3.0 | iOS 3.0.1 | iOS 3.1 | iOS 3.1.2 | iOS 3.1.3 | 
+|---------|----------|---------|---------|----------|---------|
+| Jailbreak |   No   |   No       |    PwnageTool   |        RedSn0w |   RedSn0w      | 
 
 info from https://smartphones.gadgethacks.com/how-to/jailbreak-and-unlock-1-1-1-iphone-174107/
 
-# iOS 2.0 - iOS  2.2.1 
-| iOS       |  Jailbreak   |   JB Team  | 
-|---------|----------|---------|
-| iOS 2.0   | No |  |
-| iOS 2.0.1 | No |  |
-| iOS 2.0.2 | No |  |
-| iOS 2.1   | No |  |
-| iOS 2.2   | No |  |
-| iOS 2.2.1 | Yes | QuickPWN |
-
 info from https://www.imore.com/how-to-jailbreakunlock-your-1st-generation-iphone-21-windows-pc-edition-part-2
-
-# iOS 3.0 - iOS  3.1.3 
-| iOS       |  Jailbreak   |  PwnageTool |  RedSn0w   | 
-|---------|----------|---------|----------|
-| iOS 3.0   | No | |no|
-| iOS 3.0.1 | No | |no|
-| iOS 3.1   | Yes |yes|no|
-| iOS 3.1.2 | Yes | | yes |
-| iOS 3.1.3 | Yes | | yes |
 
 info from
 
