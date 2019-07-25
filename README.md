@@ -21,7 +21,7 @@
 # iOS 1.0 - iOS  1.1.5 
 | iOS       | iOS 1.0 | iOS 1.0.1 | iOS 1.0.2 | iOS 1.1 | iOS 1.1.1 | iOS 1.1.2 |  iOS 1.1.3  |   iOS 1.1.4   |   iOS 1.1.5   |
 |---------|----------|---------|---------|----------|---------|---------|----------|---------|---------|
-| Jailbreak | AppTapp Installer, iBrickr, iLiberty+, The libTiff Exploit | AppTapp Installer, iBrickr, iLiberty+, The libTiff Exploit     | AppTapp Installer, iBrickr, iLiberty+, The libTiff Exploit |     N/A | The libTiff Exploit | OktoPrep + touchFree | 
+| Jailbreak Tool | AppTapp Installer, iBrickr, iLiberty+, The libTiff Exploit | AppTapp Installer, iBrickr, iLiberty+, The libTiff Exploit     | AppTapp Installer, iBrickr, iLiberty+, The libTiff Exploit |     N/A | The libTiff Exploit | OktoPrep + touchFree | iLiberty / iLiberty+, Soft Upgrade, ZiPhone| iLiberty / iLiberty+, Soft Upgrade, ZiPhone| iLiberty / iLiberty+, Soft Upgrade, ZiPhone| 
 
 # iOS 2.0 - iOS  2.2.1 
 | iOS       | iOS 2.0 | iOS 2.0.1 | iOS 2.0.2 | iOS 2.1 | iOS 2.2 | iOS 2.2.1 |  
