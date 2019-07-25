@@ -21,7 +21,7 @@
 # iOS 1.0 - iOS  1.1.5 
 | iOS       | iOS 1.0 | iOS 1.0.1 | iOS 1.0.2 | iOS 1.1 | iOS 1.1.1 | iOS 1.1.2 |  iOS 1.1.3  |   iOS 1.1.4   |   iOS 1.1.5   |
 |---------|----------|---------|---------|----------|---------|---------|----------|---------|---------|
-| Jailbreak | AppTapp Installer,iBrickr,iLiberty+,The libTiff Exploit | AppTapp Installer,iBrickr,iLiberty+,The libTiff Exploit      |  AppTapp Installer,iBrickr,iLiberty+,The libTiff Exploit |      No | Jailbreak.me |  no | 
+| Jailbreak | AppTapp Installer, iBrickr, iLiberty+, The libTiff Exploit | AppTapp Installer, iBrickr, iLiberty+, The libTiff Exploit     | AppTapp Installer, iBrickr, iLiberty+, The libTiff Exploit |      No | Jailbreak.me |  no | 
 
 # iOS 2.0 - iOS  2.2.1 
 | iOS       | iOS 2.0 | iOS 2.0.1 | iOS 2.0.2 | iOS 2.1 | iOS 2.2 | iOS 2.2.1 |  
