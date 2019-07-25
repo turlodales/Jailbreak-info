@@ -1,5 +1,12 @@
 # Jailbreak-info full list of devises and ios jailbreakable versons 
 
+all my info from the following 
+
+my own jailbroken devices 
+
+https://ipsw.me as i have used the info from here first 
+
+https://www.theiphonewiki.com/wiki/Jailbreak to add the info to my list just in case the site dont get updated 
 
 # A series list of Apple Processors Device's
 
@@ -21,24 +28,20 @@
 # iOS 1.0 - iOS  1.1.5 
 | iOS       | iOS 1.0 | iOS 1.0.1 | iOS 1.0.2 | iOS 1.1 | iOS 1.1.1 | iOS 1.1.2 |  iOS 1.1.3  |   iOS 1.1.4   |   iOS 1.1.5   |
 |---------|----------|---------|---------|----------|---------|---------|----------|---------|---------|
-| Jailbreak Tool | AppTapp Installer, iBrickr, iLiberty+, The libTiff Exploit | AppTapp Installer, iBrickr, iLiberty+, The libTiff Exploit     | AppTapp Installer, iBrickr, iLiberty+, The libTiff Exploit |     N/A | The libTiff Exploit | OktoPrep + touchFree | iLiberty / iLiberty+, Soft Upgrade, ZiPhone| iLiberty / iLiberty+, PwnageTool, ZiPhone| iLiberty / iLiberty+,  ZiPhone| 
+| Jailbreak Tool | AppTapp Installer, iBrickr, iLiberty+, The libTiff Exploit | AppTapp Installer, iBrickr, iLiberty+, The libTiff Exploit     | AppTapp Installer, iBrickr, iLiberty+, The libTiff Exploit |     N/A | The libTiff Exploit | OktoPrep + touchFree | iLiberty / iLiberty+, Soft Upgrade, ZiPhone| iLiberty / iLiberty+, PwnageTool, ZiPhone| N/A| 
 
 # iOS 2.0 - iOS  2.2.1 
 | iOS       | iOS 2.0 | iOS 2.0.1 | iOS 2.0.2 | iOS 2.1 | iOS 2.2 | iOS 2.2.1 |  
 |---------|----------|---------|---------|----------|---------|---------|
-| Jailbreak |   No   |   No       |        No |      No | no |  no | No | no | QuickPWN |
+| Jailbreak | PwnageTool, QuickPwn |  PwnageTool, QuickPwn  | PwnageTool, QuickPwn |  PwnageTool, QuickPwn  |PwnageTool, QuickPwn  | PwnageTool, QuickPwn  | PwnageTool, QuickPwn | PwnageTool, QuickPwn  |PwnageTool, QuickPwn |
    
 
 # iOS 3.0 - iOS  3.1.3 
 | iOS       | iOS 3.0 | iOS 3.0.1 | iOS 3.1 | iOS 3.1.2 | iOS 3.1.3 | 
 |---------|----------|---------|---------|----------|---------|
-| Jailbreak |   No   |   No       |    PwnageTool   |        RedSn0w |   RedSn0w      | 
-
-info from https://smartphones.gadgethacks.com/how-to/jailbreak-and-unlock-1-1-1-iphone-174107/
-
-info from https://www.imore.com/how-to-jailbreakunlock-your-1st-generation-iphone-21-windows-pc-edition-part-2
-
-info from
+| Jailbreak | purplera1n, PwnageTool, redsn0w | blackra1n, PwnageTool, redsn0w | blackra1n, PwnageTool, redsn0w, 	
+ Star (JailbreakMe 2.0) | blackra1n, PwnageTool, redsn0w, 	
+ Star (JailbreakMe 2.0) | ? | 
 
 ---------------------------------------------------------------------------------------------
 
@@ -47,13 +50,12 @@ info from
 # iOS 2.0 - iOS  2.2.1 
 | iOS       | iOS 2.0 | iOS 2.0.1 | iOS 2.0.2 | iOS 2.1 | iOS 2.2 | iOS 2.2.1 |  
 |---------|----------|---------|---------|----------|---------|---------|
-| Jailbreak |   No   |   No       |        No |      No | no |  no | No | no | QuickPWN |
+| Jailbreak | PwnageTool | PwnageTool | PwnageTool | PwnageTool | PwnageTool | PwnageTool | PwnageTool | PwnageTool | PwnageTool |
    
-
 # iOS 3.0 - iOS  3.1.3 
 | iOS       | iOS 3.0 | iOS 3.0.1 | iOS 3.1 | iOS 3.1.2 | iOS 3.1.3 | 
 |---------|----------|---------|---------|----------|---------|
-| Jailbreak |   No   |   No       |    PwnageTool   |        RedSn0w |   RedSn0w      | 
+| Jailbreak | PwnageTool | PwnageTool | PwnageTool | PwnageTool | PwnageTool | 
 
 
 # iOS 4.0 - iOS  4.2.1 
