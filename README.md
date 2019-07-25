@@ -59,7 +59,7 @@ https://www.theiphonewiki.com/wiki/Jailbreak to add the info to my list just in 
 # iOS 4.0 - iOS  4.2.1 
 | iOS       | iOS 4.0 | iOS 4.0.1 | iOS 4.0.2 | iOS 4.1 | iOS 4.2.1 |  
 |---------|----------|---------|---------|----------|---------|
-|  Jailbreak |   No   |   No       |        No |      No | no | 
+|  Jailbreak | PwnageTool, redsn0w, sn0wbreeze, Star (JailbreakMe 2.0) | redsn0w, 	sn0wbreeze, Star (JailbreakMe 2.0) |        redsn0w, sn0wbreeze, Star (JailbreakMe 2.0)  | PwnageTool, redsn0w, sn0wbreeze, Star (JailbreakMe 2.0) | PwnageTool, redsn0w, sn0wbreeze, Star (JailbreakMe 2.0)  | 
    
 ------------------------------------------------------------------------------------
 
