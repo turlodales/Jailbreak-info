@@ -39,9 +39,7 @@ https://www.theiphonewiki.com/wiki/Jailbreak to add the info to my list just in 
 # iOS 3.0 - iOS  3.1.3 
 | iOS       | iOS 3.0 | iOS 3.0.1 | iOS 3.1 | iOS 3.1.2 | iOS 3.1.3 | 
 |---------|----------|---------|---------|----------|---------|
-| Jailbreak | purplera1n, PwnageTool, redsn0w | blackra1n, PwnageTool, redsn0w | blackra1n, PwnageTool, redsn0w, 	
- Star (JailbreakMe 2.0) | blackra1n, PwnageTool, redsn0w, 	
- Star (JailbreakMe 2.0) | ? | 
+| Jailbreak | purplera1n, PwnageTool, redsn0w | redsn0w | blackra1n, PwnageTool, redsn0w, Star (JailbreakMe 2.0) | blackra1n, PwnageTool, redsn0w, Star (JailbreakMe 2.0) | blackra1n, PwnageTool, redsn0w, Star (JailbreakMe 2.0) | 
 
 ---------------------------------------------------------------------------------------------
 
